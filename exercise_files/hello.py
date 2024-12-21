@@ -1,3 +1,2 @@
-
-# Print "hello, world!" to the terminal
+#  Print "hello, world!" to the terminal
 print('Hello, World!')
